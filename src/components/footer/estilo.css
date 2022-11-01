@@ -1,0 +1,47 @@
+:root {
+    --primary-color: rgba(150, 187, 124, 1);
+    --text-color: rgba(37, 43, 66, 1);
+    --bg-coolor: rgba(221, 244, 255, 1);
+    --second-text-color: rgba(115, 115, 115, 1);
+    --white: rgba(255, 255, 255, 1);
+  }
+
+
+.footer{
+    width: 100%;
+    background-color: var(--white);
+    padding-top: 5%;
+    padding-bottom: 5%;
+  
+}
+.numbers{
+    display: flex;
+    gap: 10%;
+    justify-content: center;  
+}
+
+.h1-footer{
+    color: var(--primary-color);
+}
+
+.text-footer{
+    display: flex;
+    justify-content: center;
+    font-size: 16px;
+    color: black;
+
+}
+
+.h1-footer-15{
+    color: var(--primary-color);
+    padding-left: 28%;
+}
+
+.h1-footer-15k{
+    color: var(--primary-color);
+    padding-left: 10%;
+}
+.h1-footer-100{
+    color: var(--primary-color);
+    padding-left: 5%;
+}

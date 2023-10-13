@@ -1,4 +1,4 @@
-# template-website 
+# template-website 💻
 This project is a static endeavor dedicated to faithfully reproducing the Linkedin website. It encompasses a meticulous replication of the website's design and layout. It's important to note that this project is purely static, focusing on recreating the visual aspects of the original site
 
 

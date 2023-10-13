@@ -11,7 +11,7 @@ If you want to run the project on your own computer, follow the steps below:
 2. Open the terminal and type the following command to clone the repository:
 
     ```
-   git clone https://github.com/luizavalentini/template-website-api.git
+   git clone https://github.com/luizavalentini/template-website.git
    ```
 
 ### Installing Dependencies
